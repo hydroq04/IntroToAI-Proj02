@@ -1,0 +1,99 @@
+\subsection{Phân tích và so sánh 3 bộ dữ liệu}
+
+
+\subsubsection{Sơ lược về cả 3 bộ dữ liệu}
+\textbf{Breast Cancer Wisconsin (Diagnostic)}  
+\begin{itemize}
+	\item \textbf{Loại bài toán:} Binary Classification .  
+	\item \textbf{Đặc trưng:} 30 thuộc tính.  
+	\item \textbf{Kích thước:} 569 mẫu.  
+	\item \textbf{Mục tiêu:} Dự đoán khối u là lành tính (Benign) hay ác tính (Malignant).
+\end{itemize}
+
+\vspace{0.3cm}
+
+\textbf{Wine Quality}  
+\begin{itemize}
+	\item \textbf{Loại bài toán:} Multiclass Classification.  
+	\item \textbf{Đặc trưng:} 11 thuộc tính.  
+	\item \textbf{Kích thước:} 4,898 mẫu.  
+	\item \textbf{Mục tiêu:} Dự đoán chất lượng rượu trong 3 nhóm: High, Standard, Low.
+\end{itemize}
+
+\vspace{0.3cm}
+
+\textbf{....}  
+\begin{itemize}
+	\item \textbf{Loại bài toán:} 
+	\item \textbf{Đặc trưng:} 
+	\item \textbf{Kích thước:} 
+	\item \textbf{Mục tiêu:} 
+\end{itemize}
+
+\subsubsection{So sánh dựa trên Classification Report}
+
+\textbf{Hiệu suất chung của mô hình}
+
+\begin{itemize}
+	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
+	\begin{itemize}
+		\item Độ chính xác cao và ổn định, dao động từ \textbf{91\% đến 96\%} khi tăng tỷ lệ huấn luyện.
+		\item Macro avg (\textbf{Precision}, \textbf{Recall}, \textbf{F1-Score}) luôn trên \textbf{0.90}.
+	\end{itemize}
+	\item \textbf{Wine Quality:}
+	\begin{itemize}
+		\item Độ chính xác thấp hơn, chỉ dao động từ \textbf{74\% đến 79\%}.
+		\item Macro avg thấp hơn, chỉ đạt khoảng \textbf{0.52 -- 0.62} do ảnh hưởng từ mất cân bằng lớp.
+	\end{itemize}
+\end{itemize}
+
+
+
+\textbf{Ảnh hưởng của class imbalance}
+\begin{itemize}
+	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
+	\begin{itemize}
+		\item Hiệu suất tăng rõ rệt khi tăng tỷ lệ huấn luyện $\rightarrow$ mô hình học tốt hơn khi có nhiều dữ liệu.
+	\end{itemize}
+	\item \textbf{Wine Quality:}
+	\begin{itemize}
+		\item Hiệu suất tăng nhẹ khi tăng tỷ lệ huấn luyện, nhưng không đáng kể $\rightarrow$ mô hình khó khái quát hóa trên bài toán đa lớp.
+	\end{itemize}
+\end{itemize}
+
+\textbf{Số lớp của bài toán}
+
+\begin{itemize}
+	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
+	\begin{itemize}
+		\item Bài toán nhị phân (Binary Classification): đơn giản, ít lớp (B hoặc M) giúp mô hình phân tách hiệu quả và tính toán nhanh.
+	\end{itemize}
+	\item \textbf{Wine Quality:}
+	\begin{itemize}
+		\item Bài toán phân loại đa lớp (Multi-Class Classification): khó hơn do phải xử lý 3 lớp (High, Standard, Low), tăng độ phức tạp cho mô hình.
+	\end{itemize}
+\end{itemize}
+
+\textbf{Số thuộc tính (features)}
+\begin{itemize}
+	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
+	\begin{itemize}
+		\item Có \textbf{30 thuộc tính}, đủ lớn để mô hình học tốt nhưng không gây overfitting khi tăng dữ liệu huấn luyện.
+	\end{itemize}
+	\item \textbf{Wine Quality:}
+	\begin{itemize}
+		\item Chỉ có \textbf{11 thuộc tính}, tuy nhỏ hơn nhưng dữ liệu đa lớp và mất cân bằng khiến hiệu suất bị giới hạn.
+	\end{itemize}
+\end{itemize}
+
+\textbf{Kích thước tập dữ liệu}
+\begin{itemize}
+	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
+	\begin{itemize}
+		\item Dữ liệu nhỏ (\textbf{569 mẫu}), nhưng do bài toán đơn giản, mô hình vẫn duy trì hiệu suất cao.
+	\end{itemize}
+	\item \textbf{Wine Quality:}
+	\begin{itemize}
+		\item Dữ liệu lớn hơn (\textbf{4,898 mẫu}), cung cấp nhiều thông tin nhưng không cải thiện đáng kể hiệu suất do bài toán khó khái quát hóa.
+	\end{itemize}
+\end{itemize}

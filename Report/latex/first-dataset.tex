@@ -653,3 +653,70 @@ Trong đó:
 		\item Nhãn M cũng có hiệu suất tốt nhưng cần tối ưu để giảm thiểu số lượng False Negatives.
 	\end{itemize}
 \end{itemize}
+
+
+
+\subsection{Phân tích độ sâu và độ chính xác}
+
+\begin{table}[h!]
+	\centering
+
+	\label{tab:max_depth_accuracy}
+	\begin{tabular}{|l|c|c|c|c|c|c|c|c|}
+		\hline
+		\textbf{max\_depth} & \textbf{None} & \textbf{2} & \textbf{3} & \textbf{4} & \textbf{5} & \textbf{6} & \textbf{7} \\ \hline
+		\textbf{Accuracy}   & 0.9561 & 0.8860 & 0.9386 & 0.9298 & 0.9561 & 0.9298 & 0.9561 \\ \hline
+	\end{tabular}
+	\caption{Độ chính xác với từng giá trị max\_depth.}
+\end{table}
+
+\newpage
+\begin{figure}[h!]
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title={Biểu đồ độ chính xác theo max\_depth},
+			xlabel={max\_depth},
+			ylabel={Accuracy},
+			xtick={0,2,3,4,5,6,7},
+			ymin=0.88, ymax=0.97,
+			grid=both,
+			width=0.8\linewidth,
+			height=0.5\linewidth,
+			legend style={at={(0.97,0.03)}, anchor=south east},
+			ymajorgrids=true
+			]
+			\addplot[color=blue,mark=square*,line width=1pt] coordinates {
+				(0, 0.9561) % None
+				(2, 0.8860)
+				(3, 0.9386)
+				(4, 0.9298)
+				(5, 0.9561)
+				(6, 0.9298)
+				(7, 0.9561)
+			};
+			\legend{Accuracy}
+		\end{axis}
+	\end{tikzpicture}
+	\caption{Biểu đồ độ chính xác của mô hình cây quyết định với từng giá trị max\_depth.}
+	\label{fig:max_depth_accuracy}
+\end{figure}
+
+
+\textbf{Nhận xét:}
+\begin{itemize}
+	\item \textbf{max\_depth = None:} Độ chính xác đạt \textbf{0.9561}, rất cao. Không giới hạn độ sâu giúp mô hình phân tách hoàn hảo nhưng có thể dẫn đến quá khớp (overfitting).
+	
+	\item \textbf{max\_depth = 2:} Độ chính xác giảm xuống \textbf{0.8860}. Điều này cho thấy mô hình quá đơn giản, không đủ độ sâu để phân tách dữ liệu chính xác.
+	
+	\item \textbf{max\_depth = 3:} Độ chính xác tăng lên \textbf{0.9386}. Mô hình cải thiện so với `max\_depth = 2` nhưng vẫn chưa đạt hiệu suất tối đa.
+	
+	\item \textbf{max\_depth = 4:} Độ chính xác giảm nhẹ còn \textbf{0.9298}, sự cân bằng giữa underfitting và overfitting chưa được tối ưu.
+	
+	\item \textbf{max\_depth = 5:} Độ chính xác quay lại mức cao nhất là \textbf{0.9561}, cho thấy đây có thể là độ sâu tối ưu cho mô hình này.
+	
+	\item \textbf{max\_depth = 6:} Độ chính xác giảm nhẹ xuống \textbf{0.9298}, cho thấy mô hình có thể đã bắt đầu xuất hiện dấu hiệu của quá khớp.
+	
+	\item \textbf{max\_depth = 7:} Độ chính xác đạt lại \textbf{0.9561}, giống với `max\_depth = 5`. Mức này đảm bảo mô hình hoạt động tốt nhưng cần kiểm tra thêm để tránh quá khớp(overfitting).
+\end{itemize}
+

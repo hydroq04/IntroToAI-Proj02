@@ -16,13 +16,17 @@
 \contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=60\%,Test=40\%)}{10}{figure.caption.14}%
 \contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=80\%,Test=20\%)}{13}{figure.caption.16}%
 \contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=90\%,Test=10\%)}{15}{figure.caption.18}%
-\contentsline {section}{\numberline {3}Tập dữ liệu thứ hai}{18}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Tiền xử lý dữ liệu}{18}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Xây dựng các cây quyết định}{18}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Phân tích các độ đo}{18}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Tập dữ liệu thứ ba}{18}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Tiền xử lý dữ liệu}{18}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Xây dựng các cây quyết định}{18}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Phân tích các độ đo}{18}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Phân tích độ sâu của cây quyết định}{18}{section.5}%
-\contentsline {section}{Tài liệu tham khảo}{19}{section*.21}%
+\contentsline {subsection}{\numberline {2.4}Phân tích độ sâu và độ chính xác}{17}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Tập dữ liệu thứ hai}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tiền xử lý dữ liệu}{19}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Xây dựng các cây quyết định}{19}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Phân tích các độ đo}{19}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Tập dữ liệu thứ ba}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Tiền xử lý dữ liệu}{19}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Xây dựng các cây quyết định}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Phân tích các độ đo}{19}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Phân tích độ sâu của cây quyết định}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Phân tích và so sánh 3 bộ dữ liệu}{19}{subsection.5.1}%
+\contentsline {subsubsection}{\relax Sơ lược về cả 3 bộ dữ liệu}{19}{section*.23}%
+\contentsline {subsubsection}{\relax So sánh dựa trên Classification Report}{20}{section*.23}%
+\contentsline {section}{Tài liệu tham khảo}{22}{section*.24}%

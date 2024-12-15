@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.6)  15 DEC 2024 20:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.6)  15 DEC 2024 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2050,7 +2050,7 @@ Package biblatex Info: Reference segment=0 on input line 109.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (latex/cover.tex
-<figures/fit-logo-chuan-V3.png, id=117, 747.16937pt x 214.53378pt>
+<figures/fit-logo-chuan-V3.png, id=129, 747.16937pt x 214.53378pt>
 File: figures/fit-logo-chuan-V3.png Graphic file (type png)
 <use figures/fit-logo-chuan-V3.png>
 Package pdftex.def Info: figures/fit-logo-chuan-V3.png  used on input line 12.
@@ -2156,7 +2156,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.10 ...orespaces Test 40\%}}{6}{figure.caption.9}
+l.7 ...ỷ lệ chia 40/60.}}{6}{figure.caption.8}
                                                   % [2])
 \tf@lof=\write9
 \openout9 = `AI_Lab02.lof'.
@@ -2232,32 +2232,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
 [5]
-<figures/dataset1/1.1.png, id=219, 341.47575pt x 272.217pt>
+<figures/dataset1/1.1.png, id=236, 341.47575pt x 272.217pt>
 File: figures/dataset1/1.1.png Graphic file (type png)
 <use figures/dataset1/1.1.png>
 Package pdftex.def Info: figures/dataset1/1.1.png  used on input line 87.
 (pdftex.def)             Requested size: 154.78653pt x 123.39369pt.
-<figures/dataset1/1.2.png, id=220, 341.47575pt x 272.81924pt>
+<figures/dataset1/1.2.png, id=237, 341.47575pt x 272.81924pt>
 File: figures/dataset1/1.2.png Graphic file (type png)
 <use figures/dataset1/1.2.png>
 Package pdftex.def Info: figures/dataset1/1.2.png  used on input line 94.
 (pdftex.def)             Requested size: 154.78653pt x 123.6667pt.
-<figures/dataset1/1.3.png, id=221, 342.078pt x 272.81924pt>
+<figures/dataset1/1.3.png, id=238, 342.078pt x 272.81924pt>
 File: figures/dataset1/1.3.png Graphic file (type png)
 <use figures/dataset1/1.3.png>
 Package pdftex.def Info: figures/dataset1/1.3.png  used on input line 101.
 (pdftex.def)             Requested size: 154.78653pt x 123.45023pt.
-<figures/dataset1/2.1.png, id=222, 341.47575pt x 272.217pt>
+<figures/dataset1/2.1.png, id=239, 341.47575pt x 272.217pt>
 File: figures/dataset1/2.1.png Graphic file (type png)
 <use figures/dataset1/2.1.png>
 Package pdftex.def Info: figures/dataset1/2.1.png  used on input line 123.
 (pdftex.def)             Requested size: 154.78653pt x 123.39369pt.
-<figures/dataset1/2.2.png, id=223, 342.078pt x 274.02374pt>
+<figures/dataset1/2.2.png, id=240, 342.078pt x 274.02374pt>
 File: figures/dataset1/2.2.png Graphic file (type png)
 <use figures/dataset1/2.2.png>
 Package pdftex.def Info: figures/dataset1/2.2.png  used on input line 130.
 (pdftex.def)             Requested size: 154.78653pt x 123.99527pt.
-<figures/dataset1/2.3.png, id=224, 340.8735pt x 272.217pt>
+<figures/dataset1/2.3.png, id=241, 340.8735pt x 272.217pt>
 File: figures/dataset1/2.3.png Graphic file (type png)
 <use figures/dataset1/2.3.png>
 Package pdftex.def Info: figures/dataset1/2.3.png  used on input line 137.
@@ -2275,32 +2275,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [6 <./figures/dataset1/1.1.png> <./figures/dataset1/1.2.png> <./figures/dataset
 1/1.3.png> <./figures/dataset1/2.1.png> <./figures/dataset1/2.2.png> <./figures
 /dataset1/2.3.png>]
-<figures/dataset1/3.1.png, id=235, 341.47575pt x 271.61475pt>
+<figures/dataset1/3.1.png, id=252, 341.47575pt x 271.61475pt>
 File: figures/dataset1/3.1.png Graphic file (type png)
 <use figures/dataset1/3.1.png>
 Package pdftex.def Info: figures/dataset1/3.1.png  used on input line 157.
 (pdftex.def)             Requested size: 154.78653pt x 123.12071pt.
-<figures/dataset1/3.2.png, id=236, 340.8735pt x 271.0125pt>
+<figures/dataset1/3.2.png, id=253, 340.8735pt x 271.0125pt>
 File: figures/dataset1/3.2.png Graphic file (type png)
 <use figures/dataset1/3.2.png>
 Package pdftex.def Info: figures/dataset1/3.2.png  used on input line 164.
 (pdftex.def)             Requested size: 154.78653pt x 123.06688pt.
-<figures/dataset1/3.3.png, id=237, 335.45325pt x 272.217pt>
+<figures/dataset1/3.3.png, id=254, 335.45325pt x 272.217pt>
 File: figures/dataset1/3.3.png Graphic file (type png)
 <use figures/dataset1/3.3.png>
 Package pdftex.def Info: figures/dataset1/3.3.png  used on input line 171.
 (pdftex.def)             Requested size: 154.78653pt x 125.61177pt.
-<figures/dataset1/4.png, id=238, 341.47575pt x 272.217pt>
+<figures/dataset1/4.png, id=255, 341.47575pt x 272.217pt>
 File: figures/dataset1/4.png Graphic file (type png)
 <use figures/dataset1/4.png>
 Package pdftex.def Info: figures/dataset1/4.png  used on input line 191.
 (pdftex.def)             Requested size: 154.78653pt x 123.39369pt.
-<figures/dataset1/4.2.png, id=239, 342.078pt x 271.0125pt>
+<figures/dataset1/4.2.png, id=256, 342.078pt x 271.0125pt>
 File: figures/dataset1/4.2.png Graphic file (type png)
 <use figures/dataset1/4.2.png>
 Package pdftex.def Info: figures/dataset1/4.2.png  used on input line 198.
 (pdftex.def)             Requested size: 154.78653pt x 122.63268pt.
-<figures/dataset1/4.3.png, id=240, 336.0555pt x 272.217pt>
+<figures/dataset1/4.3.png, id=257, 336.0555pt x 272.217pt>
 File: figures/dataset1/4.3.png Graphic file (type png)
 <use figures/dataset1/4.3.png>
 Package pdftex.def Info: figures/dataset1/4.3.png  used on input line 205.
@@ -2333,7 +2333,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
 [8]
-<figures/dataset1/4060.png, id=256, 524.6802pt x 562.2606pt>
+<figures/dataset1/4060.png, id=273, 524.6802pt x 562.2606pt>
 File: figures/dataset1/4060.png Graphic file (type png)
 <use figures/dataset1/4060.png>
 Package pdftex.def Info: figures/dataset1/4060.png  used on input line 268.
@@ -2359,7 +2359,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
 [10]
-<figures/dataset1/6040.png, id=271, 524.6802pt x 562.2606pt>
+<figures/dataset1/6040.png, id=288, 524.6802pt x 562.2606pt>
 File: figures/dataset1/6040.png Graphic file (type png)
 <use figures/dataset1/6040.png>
 Package pdftex.def Info: figures/dataset1/6040.png  used on input line 383.
@@ -2400,7 +2400,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
 [13]
-<figures/dataset1/8020.png, id=287, 518.8986pt x 562.2606pt>
+<figures/dataset1/8020.png, id=304, 518.8986pt x 562.2606pt>
 File: figures/dataset1/8020.png Graphic file (type png)
 <use figures/dataset1/8020.png>
 Package pdftex.def Info: figures/dataset1/8020.png  used on input line 494.
@@ -2426,7 +2426,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
 [15]
-<figures/dataset1/9010.png, id=298, 518.8986pt x 562.2606pt>
+<figures/dataset1/9010.png, id=315, 518.8986pt x 562.2606pt>
 File: figures/dataset1/9010.png Graphic file (type png)
 <use figures/dataset1/9010.png>
 Package pdftex.def Info: figures/dataset1/9010.png  used on input line 602.
@@ -2441,8 +2441,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
-[16 <./figures/dataset1/9010.png>]) (latex/second-dataset.tex)
-(latex/third-dataset.tex) (latex/depth-analysis.tex)
+[16 <./figures/dataset1/9010.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2452,7 +2451,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
-[17]
+[17]) (latex/second-dataset.tex) (latex/third-dataset.tex)
+(latex/depth-analysis.tex) (latex/compare-dataset.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 4.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2464,22 +2469,52 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18]
 
-Package biblatex Warning: Type 'book' not found on input line 130.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.15154pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.15154pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
+
+[19]
 
 
-LaTeX Warning: Empty bibliography on input line 130.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.15154pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.15154pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
+
+[20])
 
 
-Package biblatex Warning: Type 'article' not found on input line 131.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.15154pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.15154pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
+
+[21]
+
+Package biblatex Warning: Type 'book' not found on input line 131.
 
 
 LaTeX Warning: Empty bibliography on input line 131.
 
 
-Package biblatex Warning: Type 'misc' not found on input line 132.
+Package biblatex Warning: Type 'article' not found on input line 132.
 
 
 LaTeX Warning: Empty bibliography on input line 132.
+
+
+Package biblatex Warning: Type 'misc' not found on input line 133.
+
+
+LaTeX Warning: Empty bibliography on input line 133.
 
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
@@ -2511,8 +2546,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-4.15154pt}.
 
-[19]
-runsystem(latexminted cleantemp  --timestamp 20241215200951 B18CF4D219CC329B9A6
+[22]
+runsystem(latexminted cleantemp  --timestamp 20241215212854 B18CF4D219CC329B9A6
 D29B60823726C)...disabled (restricted).
 
  (AI_Lab02.aux)
@@ -2525,34 +2560,41 @@ L3 programming layer <2024-10-09>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package rerunfilecheck Info: File `AI_Lab02.out' has not changed.
-(rerunfilecheck)             Checksum: D574D8B502DDC685E4DF166B7EEFF555;6248.
+
+Package rerunfilecheck Warning: File `AI_Lab02.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AI_Lab02.out':
+(rerunfilecheck)             Before: 4C14975A1121A18F7221A4F7667AC550;7020
+(rerunfilecheck)             After:  EDB8241DA2BA3A03D12D7F15ECA02516;7294.
 Package logreq Info: Writing requests to 'AI_Lab02.run.xml'.
 \openout1 = `AI_Lab02.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54845 strings out of 473702
- 1213130 string characters out of 5718486
- 2231727 words of memory out of 5000000
- 76813 multiletter control sequences out of 15000+600000
- 588824 words of font info for 186 fonts, out of 8000000 for 9000
+ 55335 strings out of 473702
+ 1226812 string characters out of 5718486
+ 2232959 words of memory out of 5000000
+ 77280 multiletter control sequences out of 15000+600000
+ 589145 words of font info for 192 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,16n,107p,1881b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,19n,107p,1881b,2298s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\AnhPhuc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 rm1200.pk><C:/Users/AnhPhuc/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmex10.pfb><C:/Users/AnhPhuc/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi9.pfb><C:/Users/AnhPhuc/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AnhPhuc/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/AnhPhuc/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/AnhPhuc/AppData
-/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/AnhPhuc/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/AnhPhuc/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/AnhPhuc/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on AI_Lab02.pdf (21 pages, 497421 bytes).
+1/public/amsfonts/cm/cmmi12.pfb><C:/Users/AnhPhuc/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/AnhPhuc/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AnhPhuc/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/AnhPhu
+c/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/AnhP
+huc/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/Anh
+Phuc/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/Anh
+Phuc/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/A
+nhPhuc/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on AI_Lab02.pdf (24 pages, 517295 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 67 named destinations out of 1000 (max. 500000)
- 49474 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 49498 words of extra memory for PDF output out of 51595 (max. 10000000)
 
