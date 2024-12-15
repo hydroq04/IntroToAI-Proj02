@@ -61,7 +61,7 @@
 	\end{itemize}
 \end{itemize}
 
-\textbf{Số lớp của bài toán}
+\textbf{Số lớp của dữ liệu}
 
 \begin{itemize}
 	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
@@ -86,6 +86,7 @@
 	\end{itemize}
 \end{itemize}
 
+\newpage
 \textbf{Kích thước tập dữ liệu}
 \begin{itemize}
 	\item \textbf{Breast Cancer Wisconsin (Diagnostic):}
@@ -97,3 +98,54 @@
 		\item Dữ liệu lớn hơn (\textbf{4,898 mẫu}), cung cấp nhiều thông tin nhưng không cải thiện đáng kể hiệu suất do bài toán khó khái quát hóa.
 	\end{itemize}
 \end{itemize}
+
+
+\subsubsection{So sánh dựa trên max\_depth}
+
+\textbf{Breast Cancer Wisconsin (Diagnostic)}
+\begin{itemize}
+	\item \textbf{Hiệu suất mô hình:}  
+	Tập dữ liệu này có độ chính xác rất cao, ngay cả khi độ sâu của cây quyết định ở mức trung bình (\textbf{5--7}).Cho thấy:
+	\begin{itemize}
+		\item Mô hình học tốt các đặc trưng của dữ liệu.
+		\item Tính chất của bài toán phân loại nhị phân giúp việc phân tách dữ liệu dễ dàng hơn.
+	\end{itemize}
+	
+	\item \textbf{Số lượng đặc trưng và kích thước dữ liệu:}  
+	\begin{itemize}
+		\item \textbf{Số lượng đặc trưng lớn:} Với \textbf{30 thuộc tính}, mô hình cây quyết định có nhiều điều kiện phân tách để lựa chọn, giúp tăng khả năng phân loại chính xác.
+		\item \textbf{Kích thước dữ liệu nhỏ:} Với chỉ \textbf{569 mẫu}, mô hình có nguy cơ bị \textbf{overfitting} khi độ sâu của cây tăng quá lớn (ví dụ: max\_depth > 7). Điều này xảy ra do mô hình có thể học quá chi tiết các đặc trưng của dữ liệu huấn luyện, dẫn đến giảm khả năng khái quát hóa trên tập dữ liệu mới.
+	\end{itemize}
+	
+	\item \textbf{Kiểm soát overfitting:}  
+	Việc chọn giá trị \textbf{max\_depth} thích hợp (từ \textbf{5--7}) là rất quan trọng để cân bằng giữa:
+	\begin{itemize}
+		\item \textbf{Hiệu suất cao:} Độ chính xác tốt nhất đạt \textbf{0.9561}.
+		\item \textbf{Tránh overfitting:} Độ sâu lớn có thể khiến mô hình quá khớp với dữ liệu huấn luyện.
+	\end{itemize}
+\end{itemize}
+
+\textbf{Wine Quality}
+
+\begin{itemize}
+	\item \textbf{Độ phức tạp của bài toán:}  
+	Bài toán phân loại đa lớp (ví dụ: \textbf{Wine Quality}) có tính chất phức tạp hơn so với bài toán phân loại nhị phân, dẫn đến:
+	\begin{itemize}
+		\item Mô hình cần phải xử lý nhiều điều kiện phân tách hơn để phân biệt giữa các lớp.
+		\item Độ chính xác của mô hình thường thấp hơn, do khó khăn trong việc học và khái quát hóa mối quan hệ phức tạp giữa các đặc trưng và nhãn lớp.
+	\end{itemize}
+	
+	\item \textbf{Tầm quan trọng của việc chọn giá trị max\_depth:}  
+	Để mô hình hoạt động hiệu quả, việc chọn giá trị \textbf{max\_depth} tối ưu là rất quan trọng:
+	\begin{itemize}
+		\item \textbf{Học đủ mối quan hệ phức tạp:}  
+		Độ sâu phù hợp giúp mô hình học tốt các mối quan hệ phức tạp giữa các lớp trong bài toán đa lớp.
+		\item \textbf{Tránh overfitting:}  
+		Độ sâu quá lớn có thể dẫn đến tình trạng mô hình học quá chi tiết dữ liệu huấn luyện, làm giảm khả năng khái quát hóa trên tập dữ liệu mới.
+	\end{itemize}
+	
+\end{itemize}
+
+
+%Data set của m
+\textbf{.....}

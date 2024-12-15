@@ -21,7 +21,7 @@
 \contentsline {figure}{\numberline {2.18}{\ignorespaces Confusion Matrix với Train=60\% và Test=40\%}}{11}{figure.caption.16}%
 \contentsline {figure}{\numberline {2.19}{\ignorespaces Confusion Matrix với Train=80\% và Test=20\%}}{14}{figure.caption.18}%
 \contentsline {figure}{\numberline {2.20}{\ignorespaces Confusion Matrix với Train=90\% và Test=10\%}}{16}{figure.caption.20}%
-\contentsline {figure}{\numberline {2.21}{\ignorespaces Biểu đồ độ chính xác của mô hình cây quyết định với từng giá trị max\_depth.}}{18}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Biểu đồ độ chính xác với từng giá trị max\_depth.}}{18}{figure.caption.22}%
 \contentsline {xsect}{Tập dữ liệu thứ hai}{19}{figure.caption.22}%
 \contentsline {xsect}{Tập dữ liệu thứ ba}{19}{subsection.3.3}%
 \contentsline {xsect}{Phân tích độ sâu của cây quyết định}{19}{subsection.4.3}%

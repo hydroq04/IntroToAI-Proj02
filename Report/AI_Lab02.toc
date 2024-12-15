@@ -29,4 +29,5 @@
 \contentsline {subsection}{\numberline {5.1}Phân tích và so sánh 3 bộ dữ liệu}{19}{subsection.5.1}%
 \contentsline {subsubsection}{\relax Sơ lược về cả 3 bộ dữ liệu}{19}{section*.23}%
 \contentsline {subsubsection}{\relax So sánh dựa trên Classification Report}{20}{section*.23}%
-\contentsline {section}{Tài liệu tham khảo}{22}{section*.24}%
+\contentsline {subsubsection}{\relax So sánh dựa trên max\_depth}{21}{section*.23}%
+\contentsline {section}{Tài liệu tham khảo}{23}{section*.24}%
