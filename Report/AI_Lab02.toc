@@ -1,21 +1,28 @@
 \contentsline {section}{Lời cảm ơn}{1}{section*.3}%
 \contentsline {section}{M\d {u}c l\d {u}c}{2}{section*.4}%
 \contentsline {section}{Danh sách hình}{2}{section*.5}%
-\contentsline {section}{\numberline {1}Giới thiệu}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Bảng phân công và đánh giá tiến độ công việc}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {1}Giới thiệu}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Bảng phân công và đánh giá tiến độ công việc}{4}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Sơ lược về cây quyết định}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Về tập dữ liệu đang khảo sát}{4}{subsection.1.3}%
 \contentsline {section}{\numberline {2}Tập dữ liệu thứ nhất}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Tiền xử lý dữ liệu}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Xây dựng các cây quyết định}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Phân tích các độ đo}{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Tập dữ liệu thứ hai}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Tiền xử lý dữ liệu}{4}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Xây dựng các cây quyết định}{4}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Phân tích các độ đo}{4}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Tập dữ liệu thứ ba}{4}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Tiền xử lý dữ liệu}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Xây dựng các cây quyết định}{4}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Phân tích các độ đo}{4}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Phân tích độ sâu của cây quyết định}{4}{section.5}%
-\contentsline {section}{Tài liệu tham khảo}{5}{section*.6}%
+\contentsline {subsection}{\numberline {2.1}Giới thiệu về tập dữ liệu}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\relax Breast Cancer Wisconsin (Diagnostic)}{4}{section*.6}%
+\contentsline {subsubsection}{\relax Thông tin tổng quan về tập dữ liệu}{4}{section*.6}%
+\contentsline {subsubsection}{\relax Phân phối lớp}{5}{Item.10}%
+\contentsline {subsection}{\numberline {2.2}Tiền xử lý dữ liệu}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\relax Chia dữ liệu huấn luyện và dữ liệu kiểm tra}{5}{section*.7}%
+\contentsline {subsection}{\numberline {2.3}Phân tích các độ đo}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=40\%,Test=60\%)}{8}{section*.12}%
+\contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=60\%,Test=40\%)}{10}{figure.caption.14}%
+\contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=80\%,Test=20\%)}{13}{figure.caption.16}%
+\contentsline {subsubsection}{\relax Classification Report và Confusion Matrix (Train=90\%,Test=10\%)}{15}{figure.caption.18}%
+\contentsline {section}{\numberline {3}Tập dữ liệu thứ hai}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Tiền xử lý dữ liệu}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Xây dựng các cây quyết định}{18}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Phân tích các độ đo}{18}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Tập dữ liệu thứ ba}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Tiền xử lý dữ liệu}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Xây dựng các cây quyết định}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Phân tích các độ đo}{18}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Phân tích độ sâu của cây quyết định}{18}{section.5}%
+\contentsline {section}{Tài liệu tham khảo}{19}{section*.21}%

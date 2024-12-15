@@ -1,6 +1,26 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Logo khoa Công nghệ thông tin}}{1}{figure.caption.1}%
-\contentsline {xsect}{Giới thiệu}{3}{section*.5}%
-\contentsline {xsect}{Tập dữ liệu thứ nhất}{4}{subsection.1.3}%
-\contentsline {xsect}{Tập dữ liệu thứ hai}{4}{subsection.2.3}%
-\contentsline {xsect}{Tập dữ liệu thứ ba}{4}{subsection.3.3}%
-\contentsline {xsect}{Phân tích độ sâu của cây quyết định}{4}{subsection.4.3}%
+\contentsline {xsect}{Giới thiệu}{4}{section*.5}%
+\contentsline {xsect}{Tập dữ liệu thứ nhất}{4}{subsection.1.2}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Original Dataset}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Training 40\%}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Test 60\%}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Phân phối lớp cho tỷ lệ chia 40/60.}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Original Dataset}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Training 60\%}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Test 40\%}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Phân phối lớp cho tỷ lệ chia 60/40.}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Original Dataset}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Training 80\%}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Test 20\%}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Phân phối lớp cho tỷ lệ chia 80/20.}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Original Dataset}}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Training 90\%}}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Test 10\%}}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Phân phối lớp cho tỷ lệ chia 90/10.}}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Confusion Matrix với Train=40\% và Test=60\%}}{9}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Confusion Matrix với Train=60\% và Test=40\%}}{11}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Confusion Matrix với Train=80\% và Test=20\%}}{14}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Confusion Matrix với Train=90\% và Test=10\%}}{16}{figure.caption.20}%
+\contentsline {xsect}{Tập dữ liệu thứ hai}{18}{figure.caption.20}%
+\contentsline {xsect}{Tập dữ liệu thứ ba}{18}{subsection.3.3}%
+\contentsline {xsect}{Phân tích độ sâu của cây quyết định}{18}{subsection.4.3}%

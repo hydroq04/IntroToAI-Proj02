@@ -1,0 +1,292 @@
+This is mikTeX, Version 3.141592653 (MiKTeX 24.4) (preloaded format=tex 2024.12.15)  15 DEC 2024 01:58
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**.
+(refs.bib
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.1 @book{AI_
+             HCMUS,
+? 
+! Extra }, or forgotten $.
+l.8 }
+     
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.9 
+    
+? 
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^91 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^93 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^ad in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^aa in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^af in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^b4 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^87 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^ac in font cmr10!
+Missing character: There is no ^^c6 in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^9f in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^ad in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^87 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a2 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a5 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a3 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^8d in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^b9 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^ad in font cmr10!
+
+Overfull \hbox (58.50636pt too wide) in paragraph at lines 1--9
+[]\tenrm @bookAI$[]\teni CMUS; address \tenrm = []\teni ; author \tenrm = []\te
+ni ; title \tenrm = []\teni ; year \tenrm =|
+
+\hbox(6.94444+1.94444)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm b
+.\kern0.27779
+.\tenrm o
+.etc.
+
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^91 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^93 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^ad in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a7 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^8d in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^9d in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a2 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a5 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a3 in font cmr10!
+Missing character: There is no ^^c4 in font cmr10!
+Missing character: There is no ^^90 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^a1 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^8d in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^91 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^a0 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^91 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^93 in font cmr10!
+Missing character: There is no ^^c3 in font cmr10!
+Missing character: There is no ^^ad in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^93 in font cmr10!
+Missing character: There is no ^^c4 in font cmr10!
+Missing character: There is no ^^90 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^bf in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^bf in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^ba in font cmr10!
+Missing character: There is no ^^af in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^a3 in font cmr10!
+Missing character: There is no ^^e1 in font cmr10!
+Missing character: There is no ^^bb in font cmr10!
+Missing character: There is no ^^9b in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.45 ...l = {https://en.wikipedia.org/wiki/Search_
+                                                  problem},
+? 
+! Extra }, or forgotten $.
+l.45 ...ps://en.wikipedia.org/wiki/Search_problem}
+                                                  ,
+? 
+! Extra }, or forgotten $.
+l.47 }
+      
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.48 
+     
+? 
+
+Overfull \hbox (55.58821pt too wide) in paragraph at lines 43--48
+[]\tenrm @miscsearch-wiki, ti-tle = Search prob-lem - Wikipedia, url = https://
+en.wikipedia.org/wiki/Search$[]\teni roblem; urldate \tenrm =|
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm m
+.\tenrm i
+.\tenrm s
+.etc.
+
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*d.a
+
+*d
+
+*a
+
+*s
+
+*
+! Emergency stop.
+<*> 
+    
+End of file on the terminal!
+
+No pages of output.
